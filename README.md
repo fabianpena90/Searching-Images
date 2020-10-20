@@ -1,3 +1,14 @@
+# Search Image App
+
+App that allows you to search any image that you like by using the following technologies:
+
+- React
+- JavaScript
+- Axios
+- API
+- Semantic UI
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
