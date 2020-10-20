@@ -3,6 +3,7 @@
 App that allows you to search any image that you like by using the following technologies:
 
 - React
+- JavaScript
 - Axios
 - API
 - Semantic UI
